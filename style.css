@@ -1,0 +1,34 @@
+.buffer {
+    height: 2em;
+}
+
+.custom {
+    color: #A1C9F7 !important;
+}
+
+/* a.navbar-brand {
+    color: #A1C9F7 !important;
+} */
+
+.container {
+    width: 75%;
+}
+
+.checkbox {
+    margin-right: 5px;
+}
+
+.list-group {
+    border-radius: 10px;
+}
+
+.item-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.list-group-item:hover {
+    /*original is #303030*/
+    background-color: #252525;
+    cursor: pointer;
+}
